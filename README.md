@@ -9,10 +9,30 @@ Right now, I'm exploring:
 - 🌐 HTML & CSS
 - 📜 JavaScript (just starting, familiar with C++-like parts)
 
+---
+
+
+## 🎯 Focus Areas
+
+- Understanding of Git/GitHub
+- Logic building through C++
+- Improving technical communication
+
+---
+
+## 📁 What You’ll Find in This Repo
+
+- Practice code in C++
+- Practice code of Python
+- HTML/CSS experiments  
+- Small notes and learning logs  
+
+---
 
 ## Tools I Use
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="100" alt="cplusplus logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="100" alt="vscode logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="100" alt="python logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="100" alt="github logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="100" alt="html logo"/>
