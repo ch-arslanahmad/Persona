@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**ch-arslanahmad/ch-arslanahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is __Muhammad Arslan__ and I'm a beginner trying to learn programming step by step.
 
-Here are some ideas to get you started:
+Right now, I'm exploring:
+- 🔧 Git and GitHub (learning how to use version control)
+- 💻 C++ (basic programming and logic)
+- 🐍 Python
+- 🌐 HTML & CSS
+- 📜 JavaScript (just starting, familiar with C++-like parts)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tools I Use
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="100" alt="cplusplus logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="100" alt="python logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="100" alt="github logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="100" alt="html logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="100" alt="css logo"/>
