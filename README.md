@@ -9,6 +9,10 @@ Right now, I'm exploring:
 - 🌐 HTML & CSS
 - 📜 JavaScript (just starting, familiar with C++-like parts)
 
+Currently doing:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ch-arslanahmad&repo=school_management_system_java)](https://github.com/ch-arslanahmad/school_management_system_java)
+
 ---
 
 
