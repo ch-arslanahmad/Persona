@@ -1,43 +1,41 @@
 ## Hi there 👋
 
-My name is __Muhammad Arslan__ and I'm a beginner trying to learn programming step by step.
+I'm **Muhammad Arslan** — a growing developer who started from fundamentals and is now building full projects across multiple stacks.
 
-Right now, I'm exploring:
-- 🔧 Git and GitHub (learning how to use version control)
-- 💻 C++ (basic programming and logic)
-- 🐍 Python
-- 🌐 HTML & CSS
-- 📜 JavaScript (just starting, familiar with C++-like parts)
+## 🚀 Current Level
 
-Currently doing:
+- Strong base in **programming logic and OOP**
+- Comfortable with **Git/GitHub workflows**
+- Building practical projects in:
+  - **Java**
+  - **JavaScript**
+  - **Python**
+  - **C++**
+  - **Web (HTML/CSS)**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ch-arslanahmad&repo=school_management_system_java)](https://github.com/ch-arslanahmad/school_management_system_java)
+## 📊 My GitHub Status
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ch-arslanahmad&show_icons=true&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ch-arslanahmad&layout=compact&theme=transparent&hide_border=true)
+
+## 🧭 Current State of Affairs
+
+I'm actively moving from learning-only work to more complete, project-based development.
+
+Recent active repositories include:
+- [java-oop-exercises](https://github.com/ch-arslanahmad/java-oop-exercises)
+- [campus-event-management](https://github.com/ch-arslanahmad/campus-event-management)
+- [recruitly](https://github.com/ch-arslanahmad/recruitly)
+- [pods](https://github.com/ch-arslanahmad/pods)
+- [web-dev](https://github.com/ch-arslanahmad/web-dev)
+
+## 🎯 What I’m Focused On Next
+
+- Writing cleaner, scalable project structure
+- Improving backend and database skills
+- Strengthening problem-solving with consistent builds
+- Documenting and presenting projects professionally
 
 ---
 
-
-## 🎯 Focus Areas
-
-- Understanding of Git/GitHub
-- Logic building through C++
-- Improving technical communication
-
----
-
-## 📁 What You’ll Find in This Repo
-
-- Practice code in C++
-- Practice code of Python
-- HTML/CSS experiments  
-- Small notes and learning logs  
-
----
-
-## Tools I Use
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="100" alt="cplusplus logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="100" alt="vscode logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="100" alt="python logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="100" alt="github logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="100" alt="html logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="100" alt="css logo"/>
+Thanks for visiting — I’ve come a long way, and I’m still improving every day.
